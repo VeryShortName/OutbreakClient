@@ -17,7 +17,7 @@ import com.badlogic.gdx.graphics.g3d.attributes.ColorAttribute;
 import com.badlogic.gdx.graphics.g3d.utils.ModelBuilder;
 
 public class MyGdxGame extends ApplicationAdapter {
-	//hello tis devin
+	
 	//u need to import a tons of stuff so just double click on the class name and selected
 	//select "quick fix" and then there's an option to import
 	Texture img;
